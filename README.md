@@ -91,4 +91,4 @@ Place it in the `model/`
 
 ## 📄 License
 
-MIT License
+Apache License
